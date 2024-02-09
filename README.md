@@ -5,6 +5,7 @@
 
 # Education
 - PhD in Physics Queen's University
+  - [Optical Properties of Chiral Thin Films and Microparticles](http://hdl.handle.net/1974/14915)
 - B Sc. in Physics Universidad Autónoma de Baja California
 
 # Projects
@@ -37,11 +38,9 @@ Below you can see an example of the calculated Mueller matrix elements for a sph
 You can see the code in the [following repository](https://github.com/bcrodrigo/OpenDDA_output_parsing) in my Github.
 
 ### Polarization state of light
-Lastly, the simulations enabled to learn what was the polarization state from light scattered by randomly-oriented helical scatterers, what was the effect of structural parameters
+Lastly, the simulations enabled to learn what was the polarization state from light scattered by randomly-oriented helical scatterers, what was the effect of structural parameters. Of particular interest was circularly polarized light.
 
-Of particular interest was circularly polarized light.
-
-## Thesis work at QSpace
+Thesis work at QSpace
 During my PhD I studied the linear and non-linear optical properties of helical shaped nanostructured thin film coatings and microparticles. This required a combination of computational and experimental techniques. Follow [this link](http://hdl.handle.net/1974/14915) to take a look at the full document.
 
 
